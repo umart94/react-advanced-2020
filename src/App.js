@@ -1,10 +1,10 @@
 import React from 'react'
-import UseRefBasics from './tutorial/5-useRef/setup/1-useRef-basics'
+import Index from './tutorial/6-useReducer/setup/index'
 
 function App() {
   return (
     <div className='container'>
-      <UseRefBasics />
+      <Index />
     </div>
   )
 }
