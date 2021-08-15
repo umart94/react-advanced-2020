@@ -1,10 +1,10 @@
 import React from 'react'
-import Index from './tutorial/6-useReducer/setup/index'
+import ReactRouterSetup from './tutorial/11-react-router/setup/index'
 
 function App() {
   return (
     <div className='container'>
-      <Index />
+      <ReactRouterSetup />
     </div>
   )
 }
